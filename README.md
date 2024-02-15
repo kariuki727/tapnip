@@ -10,11 +10,11 @@ Convert Any Shortner Link To Your With Post
   <b>Earn Money with Our Bot</b>
 </h1>
 
-### Telegram Bot [EZ4Short Bot - Earn Money on Short Links](telegram.me/EZ4ShortBot)
+### Telegram Bot [Tapnip Bot - Earn Money on Short Links](telegram.me/tapnip_bot)
 
 ## Deploy 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jakeedot/URLShortener)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kariuki727/tapnip)
 
 ## Variables Required for Bot
 * `API_ID` - Your Telegram API id
@@ -41,10 +41,10 @@ Convert Any Shortner Link To Your With Post
 In this code, Go to "[users.py](/database/users.py)" in database folder
 #### Find and replace with your <b>Site Base</b>
 ```
-base_site: ez4short.com
+base_site: tapnip.vip
 ```
   
 ## Credits 
 
-* [![DK](https://img.shields.io/static/v1?label=DKBOTZ&message=Telegram&color=critical)](https://t.me/DKBOTZ)
-* [![Contact](https://img.shields.io/static/v1?label=Contact&message=On+Telegram&color=critical)](https://t.me/Cynitesupport)
+* [![DK](https://img.shields.io/static/v1?label=DKBOTZ&message=Telegram&color=critical)](https://t.me/briceka)
+* [![Contact](https://img.shields.io/static/v1?label=Contact&message=On+Telegram&color=critical)](https://t.me/briceka)
