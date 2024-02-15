@@ -1,4 +1,4 @@
-# Edit line 23 "ez4short.com" with your shortener website link
+# Edit line 23 "tapnip.vip" with your shortener website link
 
 from motor.motor_asyncio import *
 from config import *
@@ -20,7 +20,7 @@ async def get_user(user_id):
             "header_text": "",
             "footer_text": "",
             "username": "None",
-            "base_site": "ez4short.com",
+            "base_site": "tapnip.vip",
             "banner_image": None,
             "is_banner_image": True,
             "is_username": True,
